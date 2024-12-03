@@ -4,17 +4,7 @@
 
 Desarrolla un programa que cree un árbol de Navidad con una altura dinámica definida por el usuario por terminal.
 
-### Ejemplo de árbol de altura 5:
 
-
-      *
-     ***
-    *****
-   *******
-  *********
-     |||
-     |||
-     
 El usuario podrá seleccionar las siguientes acciones:
 
 - **Añadir o eliminar la estrella en la copa del árbol (@)**
