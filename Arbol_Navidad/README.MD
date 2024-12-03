@@ -6,6 +6,7 @@ Desarrolla un programa que cree un árbol de Navidad con una altura dinámica de
 
 ### Ejemplo de árbol de altura 5:
 
+
       *
      ***
     *****
@@ -13,8 +14,7 @@ Desarrolla un programa que cree un árbol de Navidad con una altura dinámica de
   *********
      |||
      |||
-
-
+     
 El usuario podrá seleccionar las siguientes acciones:
 
 - **Añadir o eliminar la estrella en la copa del árbol (@)**
